@@ -3,7 +3,7 @@ A simple calculator written in swift 3.0
 
 
 This calculator is my first app .
-It is just a simple calculator so not all exhaustive functionalities have been covere and no animations either.
+It is just a simple calculator so not all exhaustive functionalities have been covered and no animations either.
 I modeled its functionalities based on my phones calculator.
 Some redundancies might have been overlooked. 
 Further things that can be done: 
